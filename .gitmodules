@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cehi-code-repos/cehi-code-repos.r-universe.dev
 	branch = HEAD
+[submodule "RSTr"]
+	path = RSTr
+	url = https://github.com/CEHI-code-repos/RSTr
